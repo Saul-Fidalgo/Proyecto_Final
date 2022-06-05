@@ -1,0 +1,33 @@
+﻿  Cliente.cpp
+  Compra.cpp
+  Compra_Detalle.cpp
+  ConexionBD.cpp
+  Empleado.cpp
+  Marca.cpp
+  Persona.cpp
+  Producto.cpp
+  Proveedor.cpp
+  PROYECTO FINAL PROGRA 1.cpp
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(950,10): warning C4101: 'coso': variable local sin referencia
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1148,47): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1162,21): warning C4101: 'factura': variable local sin referencia
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1163,22): warning C4101: 'serie': variable local sin referencia
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1404,50): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1434,46): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1377,25): warning C4101: 'r': variable local sin referencia
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1626,9): warning C4101: 'idm': variable local sin referencia
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1835,10): warning C4101: 'existe': variable local sin referencia
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1833,9): warning C4101: 'idcd': variable local sin referencia
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1833,15): warning C4101: 'id_c': variable local sin referencia
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(2063,9): warning C4101: 'idproveedor': variable local sin referencia
+  Puesto.cpp
+  Venta.cpp
+  Venta_Detalle.cpp
+  Generando código...
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1027): warning C4715: 'n_venta': no todas las rutas de acceso de control devuelven un valor
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\Cliente.h(301): warning C4715: 'Cliente::asignardatos': no todas las rutas de acceso de control devuelven un valor
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\Venta.h(327): warning C4715: 'Venta::asignardatos': no todas las rutas de acceso de control devuelven un valor
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\Producto.h(379): warning C4715: 'Producto::returnPV': no todas las rutas de acceso de control devuelven un valor
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\Compra.h(185): warning C4715: 'Compra::ExisteCompra': no todas las rutas de acceso de control devuelven un valor
+C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\PROYECTO FINAL PROGRA 1\Compra_Detalle.h(183): warning C4715: 'Compra_Detalle::ExisteComp_det': no todas las rutas de acceso de control devuelven un valor
+  PROYECTO FINAL PROGRA 1.vcxproj -> C:\Users\jeffs\Downloads\Proyecto_Final_Programacion_I-master\x64\Debug\PROYECTO FINAL PROGRA 1.exe
